@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895901232154",
+    "project_id": "khohlimedia",
+    "storage_bucket": "khohlimedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895901232154:android:c572323aca9bf6d41e35a3",
+        "android_client_info": {
+          "package_name": "com.media.kohli.assignment.kohli_media_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895901232154-pusia13o0kpp0ma1rl6en98dnpqpm1ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfI1_XrFh1ZLbedScz8hGr7ySfzjb-108"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895901232154-pusia13o0kpp0ma1rl6en98dnpqpm1ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
